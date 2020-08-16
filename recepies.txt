@@ -2,6 +2,9 @@ welcome to kitchen
 pizza
 kheer
 icecream
+pasta
+noodles
+
 
 
 
